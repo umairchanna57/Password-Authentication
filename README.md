@@ -40,7 +40,7 @@ Umair Ali
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-  ![02 02 2024_09 37 54_REC](https://github.com/umairchanna57/Password_Authentication/assets/99108150/b70b9199-8079-4fa5-9b29-464a247a9c8e)
-   
 
+
+![02 02 2024_09 37 54_REC](https://github.com/umairchanna57/Password-Authentication/assets/99108150/e74593e0-f2b3-40da-a94d-469061daabce)
 
